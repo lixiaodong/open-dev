@@ -21,14 +21,6 @@ open sources dev
 安装指南：http://www.gulpjs.com.cn/docs/getting-started/
 
 
-#### 添加Host配置
-
-为了方便开发，使用*.a.com域名，对应的券商对应的域名
-
-    127.0.0.1 gh.a.com
-    127.0.0.1 gftest.a.com
-    127.0.0.1 chinaloins.a.com
-
 
 #### Nginx安装及配置
 
@@ -56,10 +48,6 @@ open sources dev
 
 
 
-
-
-
-
 ### 注意事项
 
 1.必须以管理员权限运行nginx.exe
@@ -70,13 +58,5 @@ open sources dev
 
 4.host配置不要重复
 
-
-
-
-
-
-
-
-### Mac平台
 
 
