@@ -48,7 +48,7 @@ open sources dev
 
 
 
-### 注意事项
+### Nginx注意事项
 
 1.必须以管理员权限运行nginx.exe
 
