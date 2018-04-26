@@ -33,8 +33,10 @@ open-dev是一个开源的前端开发环境搭建指南，每一个程序员的
 ## 安装idea插件
 
   1.安装gitlab相关插件
+  
   2.复制gitlab->account对应的token跟IDEA关联
-  2.checkout from version control ->gitlab
+  
+  3.checkout from version control ->gitlab
   
 
 #### Nginx安装及配置
