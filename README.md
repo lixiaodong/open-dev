@@ -77,3 +77,21 @@ open-dev是一个开源的前端开发环境搭建指南，每一个程序员的
 
 
 
+## Mac平台
+
+#### 下载使用IDEA
+
+下载地址：https://www.jetbrains.com/idea/
+
+破解地址：http://idea.lanyus.com/
+
+
+#### mac下推荐终端工具：iterm
+
+https://www.iterm2.com/
+
+
+
+
+
+
